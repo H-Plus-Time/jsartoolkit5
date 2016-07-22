@@ -1,0 +1,23 @@
+{
+  "name": "jsartoolkit5",
+  "description": "Emscripten port of ARToolKit to JavaScript",
+  "main": "build/artoolkit.min.js",
+  "authors": [
+    "Github Contributors (https://github.com/artoolkit/jsartoolkit5/graphs/contributors)"
+  ],
+  "license": "LGPL-3.0",
+  "keywords": [
+    "ARToolKit",
+    "AR",
+    "Augmented",
+    "Reality"
+  ],
+  "homepage": "https://github.com/artoolkit/jsartoolkit5",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
